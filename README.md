@@ -4,8 +4,15 @@ This repository demonstrates several Nmap scanning techniques for ethical hackin
 
 ## Tools Used
 
-- 🛠️ Nmap (Network Mapper)
-- 📸 Screenshots of each scan result
+-  Kali Linux  
+-  Nmap (Network Mapper)
+-  Screenshots of each scan result
+
+### Installation
+Nmap is pre-installed on Kali Linux. You can verify the installation or update it using the following command:
+```sh
+sudo apt-get update && sudo apt-get install nmap
+```
 
 
 ## Scanning Techniques Demonstrated
